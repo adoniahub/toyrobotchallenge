@@ -6,18 +6,7 @@ namespace ToyRobotChallenge.Tests
 {
     public class UnitTest1
     {
-        [Fact]
-        public void WhenNotPlacedYet()
-        {   
-            //arrange
-            Robot robot = new Robot();
-            //act
-            string result = robot.command("REPORT");
-            //assert
-            
-            Assert.Equal("Error: Robot not placed yet", result);
-        }
-
+        
         [Fact]
         public void Report_0_1_N_AfterPlaced_0_0_N_AndSingleMove()
         {
