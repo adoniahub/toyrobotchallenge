@@ -1,0 +1,16 @@
+C:\Users\adj28\toyrobotchallenge\src\ToyRobotChallenge\bin\Debug\net5.0\ToyRobotChallenge.exe
+C:\Users\adj28\toyrobotchallenge\src\ToyRobotChallenge\bin\Debug\net5.0\ToyRobotChallenge.deps.json
+C:\Users\adj28\toyrobotchallenge\src\ToyRobotChallenge\bin\Debug\net5.0\ToyRobotChallenge.runtimeconfig.json
+C:\Users\adj28\toyrobotchallenge\src\ToyRobotChallenge\bin\Debug\net5.0\ToyRobotChallenge.runtimeconfig.dev.json
+C:\Users\adj28\toyrobotchallenge\src\ToyRobotChallenge\bin\Debug\net5.0\ToyRobotChallenge.dll
+C:\Users\adj28\toyrobotchallenge\src\ToyRobotChallenge\bin\Debug\net5.0\ref\ToyRobotChallenge.dll
+C:\Users\adj28\toyrobotchallenge\src\ToyRobotChallenge\bin\Debug\net5.0\ToyRobotChallenge.pdb
+C:\Users\adj28\toyrobotchallenge\src\ToyRobotChallenge\obj\Debug\net5.0\ToyRobotChallenge.csprojAssemblyReference.cache
+C:\Users\adj28\toyrobotchallenge\src\ToyRobotChallenge\obj\Debug\net5.0\ToyRobotChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adj28\toyrobotchallenge\src\ToyRobotChallenge\obj\Debug\net5.0\ToyRobotChallenge.AssemblyInfoInputs.cache
+C:\Users\adj28\toyrobotchallenge\src\ToyRobotChallenge\obj\Debug\net5.0\ToyRobotChallenge.AssemblyInfo.cs
+C:\Users\adj28\toyrobotchallenge\src\ToyRobotChallenge\obj\Debug\net5.0\ToyRobotChallenge.csproj.CoreCompileInputs.cache
+C:\Users\adj28\toyrobotchallenge\src\ToyRobotChallenge\obj\Debug\net5.0\ToyRobotChallenge.dll
+C:\Users\adj28\toyrobotchallenge\src\ToyRobotChallenge\obj\Debug\net5.0\ref\ToyRobotChallenge.dll
+C:\Users\adj28\toyrobotchallenge\src\ToyRobotChallenge\obj\Debug\net5.0\ToyRobotChallenge.pdb
+C:\Users\adj28\toyrobotchallenge\src\ToyRobotChallenge\obj\Debug\net5.0\ToyRobotChallenge.genruntimeconfig.cache
